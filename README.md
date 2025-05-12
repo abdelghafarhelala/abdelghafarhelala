@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdelghafar Mohamed Helala</h1>
-<h3 align="center">A Junior Flutter Developer from Egypt</h3>
+<h3 align="center">A Mid-level Flutter Developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelghafarhelala&label=Profile%20views&color=0e75b6&style=flat" alt="abdelghafarhelala" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelghafarhelala" alt="abdelghafarhelala" /></a> </p>
 
-- 🔭 I’m currently working on [estadat project](https://github.com/abdelghafarhelala/club_app)
+- 🔭 I’m currently working on [estadat project]
 
-- 🌱 I’m currently learning **advanced Flutter**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdelghafarhelala](https://github.com/abdelghafarhelala)
 
